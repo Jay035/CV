@@ -12,6 +12,9 @@ module.exports = {
       xl: '1440px'
     },
     extend: {
+      gridTemplateColumns: {
+        'customised-col': '1fr 2fr'
+      },
       colors: {
         arsenic : '#2F333F'
       },
